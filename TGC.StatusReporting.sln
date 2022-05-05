@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGC.StatusReporting.Tool", "TGC.StatusReporting.Tool\TGC.StatusReporting.Tool.csproj", "{B1740918-2048-455A-B599-60D904696BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGC.WIQLQueryBuilder", "TGC.WIQLQueryBuilder\TGC.WIQLQueryBuilder.csproj", "{34475BF6-14C9-4662-89F5-AA1E35A2953E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1740918-2048-455A-B599-60D904696BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1740918-2048-455A-B599-60D904696BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1740918-2048-455A-B599-60D904696BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1740918-2048-455A-B599-60D904696BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34475BF6-14C9-4662-89F5-AA1E35A2953E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34475BF6-14C9-4662-89F5-AA1E35A2953E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34475BF6-14C9-4662-89F5-AA1E35A2953E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34475BF6-14C9-4662-89F5-AA1E35A2953E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD24C54D-F6D0-436E-98E5-B40D81582BC1}
+	EndGlobalSection
+EndGlobal
